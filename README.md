@@ -17,4 +17,10 @@
 * :closed_book: Intermediate English level
 * :school_satchel: Computer Science Student at UFU (Universidade Federal de Uberlândia)
 
+<h3>Hobbies</h3>
+
+* 🛹 Skateboarding
+* 🎸 Music
+* 📚 Books
+
 
