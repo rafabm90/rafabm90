@@ -3,7 +3,8 @@
 
 ---
 
-<h1 id="hi-im-rafael-d">Hi, I’m Rafael! :D :wave:</h1>
+<h1 id="hi-im-rafael-d">Hi, I’m Rafael! :D <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<img align="right" width="50%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif"></h1>
 <p><a href="https://github.com/rafabm90"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/fagnerpsantos" alt="Github Badge"></a><br>
 <a href="https://www.linkedin.com/in/rafael-borges-3025b719b/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/fagnerpsantos/" alt="Linkedin Badge"></a><br>
 <a href="https://twitter.com/fael_04"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/fagnerpsantos" alt="Twitter Badge"></a></p>
