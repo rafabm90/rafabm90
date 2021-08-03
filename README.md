@@ -14,7 +14,7 @@
 
 * :mortar_board: [Studying **Mobile Development** in Flutter](https://github.com/rafabm90)
 * :iphone: Mobile development intern
-  *asasasd
+  * asasasd
 * :closed_book: Intermediate English level
 * :school_satchel: Computer Science Student at UFU (Universidade Federal de Uberlândia)
 
