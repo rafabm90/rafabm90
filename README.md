@@ -13,7 +13,8 @@
 <h3 id="about-me">About me</h3>
 
 * :mortar_board: [Studying **Mobile Development** in Flutter](https://github.com/rafabm90)
-* :mortar_board: Mobile development intern in flutter
+* :iphone: Mobile development intern in flutter
 * :closed_book: Intermediate English level
+* :school_satchel: Computer Science Student at UFU (Universidade Federal de Uberlândia)
 
 
