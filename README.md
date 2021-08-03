@@ -10,7 +10,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafabm90)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabm90&show_icons=true)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <h3 id="about-me">About me</h3>
 <p>I am a program student, I do computer science at UFU (Universidade Federal de Uberlândia) and I am fascinated by technology and innovation</p>
